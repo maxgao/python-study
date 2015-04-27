@@ -1,4 +1,5 @@
 #!/usr/bin/python
 
 print 'first commit'
-aaaaa
+print 'aaaaa'
+print 'cccc'
